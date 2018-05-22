@@ -12,6 +12,7 @@ ravikumar@ravikumar-RV409-RV509-RV709 ~/vgrnt_mchns $ tree
     ├── os_setup_dependency.yml                                                                                                     
     ├── set_root_pass.sh                                                                                                           
     └── Vagrantfile                                                                                                                
-                                                                                                                                       
+                           
+                           
 1 directory, 3 files                                                                                                                                                      
 ravikumar@ravikumar-RV409-RV509-RV709 ~/vgrnt_mchns $ 
