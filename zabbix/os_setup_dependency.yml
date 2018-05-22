@@ -1,0 +1,11 @@
+---
+- hosts: all
+  tasks:
+  - name: install packages
+    yum:
+       name: "{{ item }}"
+       state: present
+    with_items:
+       - net-tools
+       - bind-utils
+    sudo: yes
