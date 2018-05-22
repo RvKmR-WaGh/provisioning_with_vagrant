@@ -6,8 +6,8 @@ I am provisioning 3 machines for zabbix server with shell script to set root pas
 
 Lets check out files in my current working directory :
 
-ravikumar@ravikumar-RV409-RV509-RV709 ~/vgrnt_mchns $ tree
-.
+ravikumar@ravikumar-RV409-RV509-RV709 ~/vgrnt_mchns $ tree                                                                          
+.                                                                                                                                  
 └── zabbix                                                                                                                             
     ├── os_setup_dependency.yml                                                                                                     
     ├── set_root_pass.sh                                                                                                           
